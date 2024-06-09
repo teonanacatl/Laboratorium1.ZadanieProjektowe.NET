@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorium1.ZadanieProjektowe.NET", "Laboratorium1.ZadanieProjektowe.NET\Laboratorium1.ZadanieProjektowe.NET.csproj", "{FAE125A6-1A9B-48E7-9706-B7ADC0A307CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE125A6-1A9B-48E7-9706-B7ADC0A307CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE125A6-1A9B-48E7-9706-B7ADC0A307CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE125A6-1A9B-48E7-9706-B7ADC0A307CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE125A6-1A9B-48E7-9706-B7ADC0A307CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
